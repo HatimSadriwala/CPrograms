@@ -1,5 +1,5 @@
 # CPrograms
-/*Program for displaying numbers from 1 to 10*/
+/*Program for displaying numbers from 1 to 10 & 10 to 1*/
 #include<stdio.h>
 #include<conio.h>
 void main()
